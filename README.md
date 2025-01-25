@@ -1,0 +1,1 @@
+Yapay sinir ağları projesidir. Veri setleri Kaggle'dan alınmıştır. Twitch platformu üzerinde ardaşalık ağı oluşturduk. Bunu yaparken GNN (Graf Sinir Ağları) leri kullandık. Daha sonra 18 yaşından büyük olup olmadığının tahminini yaptık.Bu proje sinir ağları dersinde sunulmuştur. 
